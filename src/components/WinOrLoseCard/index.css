@@ -1,0 +1,33 @@
+/* Write your code here. */
+.loose-container {
+  display: flex;
+  background-color: #ffffff33;
+  padding: 10px;
+  border-radius: 10px;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  margin-inline-start: 20px;
+  justify-content: center;
+}
+.result-heading {
+  color: white;
+  font-size: 25px;
+}
+.score {
+  color: #6a59ff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.play-button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  padding: 10px;
+  border-radius: 8px;
+  border-width: 0px;
+}
+.result-image {
+  height: 200px;
+  width: 200px;
+}

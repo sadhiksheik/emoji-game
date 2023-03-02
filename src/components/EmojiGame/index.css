@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.bg-container {
+  height: 100vh;
+  background-image: radial-gradient(#fbc7d4, #9796f0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 45%;
+}

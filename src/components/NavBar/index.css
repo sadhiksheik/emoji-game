@@ -1,0 +1,27 @@
+/* Write your code here. */
+.nav-bar {
+  background-color: #9796f0;
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+.scores {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.nav-logo {
+  height: 40px;
+  width: 40px;
+  margin-left: 30px;
+}
+.scores-container {
+  display: flex;
+}
+.game-name {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 20px;
+}
